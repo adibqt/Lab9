@@ -1,0 +1,6 @@
+Yogurt Shop Invoice
+Chocolate Fudge - 2 scoop(s): $6.0
+Sprinkles - 1 time: $0.3
+Subtotal: $6.3
+Tax: $0.504
+Total Amount Due: $6.804

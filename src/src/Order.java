@@ -1,6 +1,7 @@
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 
 public class Order {
@@ -85,5 +86,14 @@ public class Order {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public Collection<Object> getItems() {
+        return new ArrayList<>(items);
+
+    }
+
+    public Collection<Object> getToppings() {
+        return new ArrayList<>(toppings);
     }
 }
