@@ -1,5 +1,6 @@
 Yogurt Shop Invoice
-Cookies and Cream - 2 scoop(s): $5.6
-Subtotal: $5.6
-Tax: $0.44799999999999995
-Total Amount Due: $6.048
+Chocolate Fudge - 3 scoop(s): $9.0
+Crushed Gingerbread - 1 time: $0.75
+Subtotal: $14.75
+Tax: $1.18
+Total Amount Due: $15.93
